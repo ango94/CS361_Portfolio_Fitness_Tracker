@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1730773881105,
+    "activityName": "Dumbell Curls",
+    "activityDate": "2025-10-23",
+    "exerciseType": "weight lifting",
+    "detail1": "30",
+    "detail2": "30",
+    "additionalNotes": "Did both arms in the order of L to R. A total of 3 sets for each arm (10 x 3 = 30 per arm)",
+    "date": "2024-11-05T02:31:21.105Z"
+  },
+  {
+    "id": 1730776441775,
+    "activityName": "Morning Mile Run",
+    "activityDate": "2024-10-28",
+    "exerciseType": "cardio",
+    "detail1": "1",
+    "detail2": "6",
+    "additionalNotes": "",
+    "date": "2024-11-05T03:14:01.775Z"
+  },
+  {
+    "id": 1730784517337,
+    "activityName": "curls",
+    "activityDate": "2024-10-12",
+    "exerciseType": "weight lifting",
+    "detail1": "32",
+    "detail2": "10",
+    "additionalNotes": "",
+    "date": "2024-11-05T05:28:37.337Z"
+  },
+  {
+    "id": 1731895327582,
+    "activityName": "new exercise",
+    "activityDate": "2024-10-22",
+    "exerciseType": "weight lifting",
+    "detail1": "23",
+    "detail2": "41",
+    "additionalNotes": "notes",
+    "date": "2024-11-18T02:02:07.582Z"
+  }
+]
